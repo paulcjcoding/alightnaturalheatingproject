@@ -4396,9 +4396,9 @@ ol.breadcrumb.text-darker a:hover { color: #000; }
 
 .bg-not-loaded .row-bg-inner { opacity: 0; }
 
-@media screen and (min-width: 992px) { .vc_row.pull-down { margin-bottom: -340px; }
+@media screen and (min-width: 225px) { .vc_row.pull-down { margin-bottom: -340px; }
   .vc_row.pull-up { margin-top: -230px; } }
-@media screen and (max-width: 768px) { .vc_row[class*=pb-] { padding-bottom: 3rem !important; }
+@media screen and (max-width: 300px) { .vc_row[class*=pb-] { padding-bottom: 3rem !important; }
   .vc_row[class*=pt-] { padding-top: 3rem !important; } }
 /* 4.4. Text Block */
 .wpb_text_column > .wpb_wrapper > ul { padding-left: 0; }
