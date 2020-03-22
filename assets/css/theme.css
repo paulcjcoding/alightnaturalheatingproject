@@ -7857,7 +7857,7 @@ input:focus ~ .liquid-cl-3:after, textarea:focus ~ .liquid-cl-3:after, .input-fo
 .carousel-item-inner .wpb_single_image:only-child .vc_single_image-wrapper,
 .carousel-item-inner .wpb_single_image:only-child .vc_figure,
 .carousel-item-inner .wpb_single_image:only-child img {
-  width: 100%;
+  width: 150%;
 }
 
 .flickity-prev-next-button {
